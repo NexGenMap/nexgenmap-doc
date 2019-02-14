@@ -1,11 +1,8 @@
 Mosaic
 =======
 
-History
--------
+Production of mosaics
+---------------------
 
-Airflow was started in October 2014 by Maxime Beauchemin at Airbnb.
-It was open source from the very first commit and officially brought under
-the Airbnb Github and announced in June 2015.
+Production of mosaics is a important step of the project because the quality has direct influence to image classification. The strategies aim to use the biggest number of data available in the Google Earth Engine platform.
 
-The project joined the Apache Software Foundation's incubation program in March 2016.
