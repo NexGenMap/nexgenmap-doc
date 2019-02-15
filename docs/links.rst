@@ -1,8 +1,5 @@
 Important links
-=======
-
-History
--------
+===============
 
 Airflow was started in October 2014 by Maxime Beauchemin at Airbnb.
 It was open source from the very first commit and officially brought under
